@@ -1,28 +1,28 @@
 {
   "files": {
-    "static/js/0.b76a360d.chunk.js": "/mana-do%20%20%20/static/js/0.b76a360d.chunk.js",
-    "static/js/0.b76a360d.chunk.js.map": "/mana-do%20%20%20/static/js/0.b76a360d.chunk.js.map",
-    "main.js": "/mana-do%20%20%20/static/js/main.8a1e83c4.chunk.js",
-    "main.js.map": "/mana-do%20%20%20/static/js/main.8a1e83c4.chunk.js.map",
-    "runtime-main.js": "/mana-do%20%20%20/static/js/runtime-main.c7ed35d4.js",
-    "runtime-main.js.map": "/mana-do%20%20%20/static/js/runtime-main.c7ed35d4.js.map",
-    "static/js/3.aeabe9f3.chunk.js": "/mana-do%20%20%20/static/js/3.aeabe9f3.chunk.js",
-    "static/js/3.aeabe9f3.chunk.js.map": "/mana-do%20%20%20/static/js/3.aeabe9f3.chunk.js.map",
-    "static/js/4.af12de83.chunk.js": "/mana-do%20%20%20/static/js/4.af12de83.chunk.js",
-    "static/js/4.af12de83.chunk.js.map": "/mana-do%20%20%20/static/js/4.af12de83.chunk.js.map",
-    "static/js/5.71ddb401.chunk.js": "/mana-do%20%20%20/static/js/5.71ddb401.chunk.js",
-    "static/js/5.71ddb401.chunk.js.map": "/mana-do%20%20%20/static/js/5.71ddb401.chunk.js.map",
-    "static/js/6.ba194d94.chunk.js": "/mana-do%20%20%20/static/js/6.ba194d94.chunk.js",
-    "static/js/6.ba194d94.chunk.js.map": "/mana-do%20%20%20/static/js/6.ba194d94.chunk.js.map",
-    "index.html": "/mana-do%20%20%20/index.html",
-    "static/js/3.aeabe9f3.chunk.js.LICENSE.txt": "/mana-do%20%20%20/static/js/3.aeabe9f3.chunk.js.LICENSE.txt",
-    "static/media/background.648d8d7a.gif": "/mana-do%20%20%20/static/media/background.648d8d7a.gif",
-    "static/media/empty-list.c98e7c84.svg": "/mana-do%20%20%20/static/media/empty-list.c98e7c84.svg",
-    "static/media/logo.svg": "/mana-do%20%20%20/static/media/logo.05536d55.svg"
+    "static/js/0.b76a360d.chunk.js": "/mana-do/static/js/0.b76a360d.chunk.js",
+    "static/js/0.b76a360d.chunk.js.map": "/mana-do/static/js/0.b76a360d.chunk.js.map",
+    "main.js": "/mana-do/static/js/main.8cffce08.chunk.js",
+    "main.js.map": "/mana-do/static/js/main.8cffce08.chunk.js.map",
+    "runtime-main.js": "/mana-do/static/js/runtime-main.95a6597d.js",
+    "runtime-main.js.map": "/mana-do/static/js/runtime-main.95a6597d.js.map",
+    "static/js/3.307c055f.chunk.js": "/mana-do/static/js/3.307c055f.chunk.js",
+    "static/js/3.307c055f.chunk.js.map": "/mana-do/static/js/3.307c055f.chunk.js.map",
+    "static/js/4.12e292f8.chunk.js": "/mana-do/static/js/4.12e292f8.chunk.js",
+    "static/js/4.12e292f8.chunk.js.map": "/mana-do/static/js/4.12e292f8.chunk.js.map",
+    "static/js/5.a99d2d47.chunk.js": "/mana-do/static/js/5.a99d2d47.chunk.js",
+    "static/js/5.a99d2d47.chunk.js.map": "/mana-do/static/js/5.a99d2d47.chunk.js.map",
+    "static/js/6.ba194d94.chunk.js": "/mana-do/static/js/6.ba194d94.chunk.js",
+    "static/js/6.ba194d94.chunk.js.map": "/mana-do/static/js/6.ba194d94.chunk.js.map",
+    "index.html": "/mana-do/index.html",
+    "static/js/3.307c055f.chunk.js.LICENSE.txt": "/mana-do/static/js/3.307c055f.chunk.js.LICENSE.txt",
+    "static/media/background.648d8d7a.gif": "/mana-do/static/media/background.648d8d7a.gif",
+    "static/media/empty-list.c98e7c84.svg": "/mana-do/static/media/empty-list.c98e7c84.svg",
+    "static/media/logo.svg": "/mana-do/static/media/logo.05536d55.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7ed35d4.js",
-    "static/js/3.aeabe9f3.chunk.js",
-    "static/js/main.8a1e83c4.chunk.js"
+    "static/js/runtime-main.95a6597d.js",
+    "static/js/3.307c055f.chunk.js",
+    "static/js/main.8cffce08.chunk.js"
   ]
 }
